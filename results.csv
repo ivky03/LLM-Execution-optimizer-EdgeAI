@@ -1,0 +1,10 @@
+Model,Type,Latency (s),Memory (MB)
+distilgpt2,PyTorch,3.4385,317.71
+distilgpt2,ONNX,1.6832,624.7
+distilgpt2,Quantized,3.0459,4.41
+EleutherAI/gpt-neo-125M,PyTorch,5.5149,168.01
+EleutherAI/gpt-neo-125M,ONNX,1.9383,871.47
+EleutherAI/gpt-neo-125M,Quantized,3.0547,-194.73
+openai-community/gpt2,PyTorch,6.5842,-7.93
+openai-community/gpt2,ONNX,2.0582,703.8
+openai-community/gpt2,Quantized,4.3012,-37.49
